@@ -96,7 +96,7 @@ st.markdown("""
     
     /* Alternative: Solid color */
     header[data-testid="stHeader"] {
-        background: #1e3c72 !important;
+        background: linear-gradient(90deg, #1e3c72 0%, #2a5298 50%, #7e22ce 100%) !important;
     }
     
     /* Style the toolbar (where Deploy button is) */
@@ -123,7 +123,7 @@ st.markdown("""
     /* SIDEBAR STYLING */
     /* ============================================================ */
     [data-testid="stSidebar"] {
-        background: linear-gradient(180deg, #1e3c72 0%, #2a5298 50%, #7e22ce 100%) !important;
+        background: linear-gradient(58deg, #1e3c72 0%, #2a5298 50%, #7e22ce 100%) !important;
         min-height: 100vh;
         overflow-y: auto !important;
         padding:10px;
