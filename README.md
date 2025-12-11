@@ -25,7 +25,7 @@ An intelligent conversational AI system that enables natural language interactio
 
 ### Live Demo
 
-*Link to deployed application if available*
+[*Link to deployed application if available*](https://youtube-chatbot-9v8bdeuhfkfcet7njtsxa4.streamlit.app/)
 
 ## 🎯 Overview
 
