@@ -126,6 +126,7 @@ st.markdown("""
         background: linear-gradient(180deg, #1e3c72 0%, #2a5298 50%, #7e22ce 100%) !important;
         min-height: 100vh;
         overflow-y: auto !important;
+        padding:10px;
     }
     
     /* Sidebar scrollbar */
